@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋
+
+We're working hard on harnessing the power of electricity for everyone.
+
+Open-Source&Hardware project for alarms using electricity instead of noise.
 
 <!--
 
